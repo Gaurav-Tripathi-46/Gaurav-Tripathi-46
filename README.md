@@ -1,8 +1,8 @@
-[![MasterHead](https://raw.githubusercontent.com/Gaurav-Tripathi-46/Gaurav-Tripathi-46/refs/heads/main/programming-code-simple-background-coding-wallpaper-preview.jpg)]()
+[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380)]()
 
 <h1 align="center">Hi 👋, I'm Gaurav Tripathi</h1>
 <h3 align="center">A passionate AI&ML and Full Stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-tripathi-46&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-tripathi-46" /> </p>
 
